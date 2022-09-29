@@ -555,6 +555,11 @@ video {
   bottom: 0.5rem;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .ml-\[175\%\] {
   margin-left: 175%;
 }
@@ -571,12 +576,68 @@ video {
   margin-top: 0.25rem;
 }
 
+.ml-\[275\%\] {
+  margin-left: 275%;
+}
+
+.ml-\[75\%\] {
+  margin-left: 75%;
+}
+
+.ml-\[\] {
+  margin-left: ;
+}
+
+.ml-\[50\] {
+  margin-left: 50;
+}
+
+.ml-\[50\%\] {
+  margin-left: 50%;
+}
+
+.ml-\[70\%\] {
+  margin-left: 70%;
+}
+
+.ml-\[120\%\] {
+  margin-left: 120%;
+}
+
+.ml-\[170\%\] {
+  margin-left: 170%;
+}
+
+.ml-\[200\%\] {
+  margin-left: 200%;
+}
+
+.ml-\[260\%\] {
+  margin-left: 260%;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
 .grid {
   display: grid;
 }
 
 .h-\[15\%\] {
   height: 15%;
+}
+
+.h-\[65\%\] {
+  height: 65%;
+}
+
+.h-\[85\%\] {
+  height: 85%;
 }
 
 .w-\[65\%\] {
@@ -591,12 +652,88 @@ video {
   width: 44%;
 }
 
+.w-\[45\%\] {
+  width: 45%;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.w-\[70\%\] {
+  width: 70%;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[120\%\] {
+  width: 120%;
+}
+
+.w-\[1\\50\%\] {
+  width: 1\50%;
+}
+
+.w-\[150\%\] {
+  width: 150%;
+}
+
+.w-\[130\%\] {
+  width: 130%;
+}
+
+.w-\[140\%\] {
+  width: 140%;
+}
+
 .grid-cols-4 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
+.rounded-\[30px\] {
+  border-radius: 30px;
+}
+
 .rounded-full {
   border-radius: 9999px;
+}
+
+.rounded-\[70px\] {
+  border-radius: 70px;
+}
+
+.rounded-\[70\] {
+  border-radius: 70;
+}
+
+.rounded-\[70\%\] {
+  border-radius: 70%;
+}
+
+.rounded-\[40\%\] {
+  border-radius: 40%;
+}
+
+.rounded-\[\] {
+  border-radius: ;
+}
+
+.rounded-\[20\] {
+  border-radius: 20;
+}
+
+.rounded-\[20px\] {
+  border-radius: 20px;
 }
 
 .bg-slate-900 {
@@ -619,8 +756,35 @@ video {
   background-color: rgb(249 115 22 / var(--tw-bg-opacity));
 }
 
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
+
 .p-2 {
   padding: 0.5rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.align-bottom {
+  vertical-align: bottom;
 }
 
 .text-\[45px\] {
